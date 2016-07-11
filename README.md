@@ -71,7 +71,7 @@ running in your computer in less than 5 minutes.
 After installing composer you can create your new Bamboo project.
 
 ``` bash
-$ php composer.phar create-project elcodi/bamboo bamboo -sdev
+$ php composer.phar create-project mwsimple/bamboo bamboo -sdev
 ```
 
 > The installation process will ask you for some parameters like the database
