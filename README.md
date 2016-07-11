@@ -73,6 +73,11 @@ After installing composer you can create your new Bamboo project.
 ``` bash
 $ php composer.phar create-project mwsimple/bamboo bamboo -sdev
 ```
+Update
+``` bash
+$ cd bamboo
+$ php composer.phar update
+```
 
 > The installation process will ask you for some parameters like the database
 > driver, username, password, database name, etc
